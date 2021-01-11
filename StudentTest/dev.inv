@@ -1,3 +1,3 @@
 [test-servers]
 
-192.168.29.137 ansible_ssh_user=pratik ansible_sudo_pass=pratik
+192.168.29.137 ansible_ssh_user=pratik1
